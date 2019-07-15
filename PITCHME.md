@@ -43,6 +43,24 @@
 
 ---
 
+## Git Branch
+
+![Branch](assets/branch.png)
+
+---
+
+## Git Merge
+
+![Merge](assets/merge.png)
+
+---
+
+## Git Rebase
+
+![Rebase](assets/rebase.png)
+
+---
+
 ## Working as a Team
 
 @ul
@@ -82,20 +100,15 @@ These commands will get the latest version of master, and rebase your changes on
 
 ## Try It Yourself
 
-Open up [https://dev.azure.com/CTS-GD/Scratch/_git/gitdemo](https://dev.azure.com/CTS-GD/Scratch/_git/gitdemo) and take a look at your branch
-
-Now go to **Pull requests** to create a pull request from your branch into the **master** branch
-
-Enter a title and description, and pick some people to review your change
+- Open up [https://dev.azure.com/CTS-GD/Scratch/_git/gitdemo](https://dev.azure.com/CTS-GD/Scratch/_git/gitdemo) and take a look at your branch
+- Now go to **Pull requests** to create a pull request from your branch into the **master** branch
+- Enter a title and description, and pick some people to review your change
 
 ---
 
 ## Try It Yourself
 
-Now you should see your pull request, alongside the other pull requests people have created
-
-Go into other pull requests and comment on the changes
-
-When you are happy with your change and the comments a pull request can be completed or abandoned
-
-But what happens if someone has completed their pull request ahead of yours?
+- Now you should see your pull request, alongside the other pull requests people have created
+- Go into other pull requests and comment on the changes
+- When you are happy with your change and the comments a pull request can be completed or abandoned
+- But what happens if someone has completed their pull request ahead of yours?
