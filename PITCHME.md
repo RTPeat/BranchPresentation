@@ -6,7 +6,7 @@
 
 @ul
 - Development is being migrated away from internally hosted Team Foundation Servers to Azure DevOps
-- On TFS we are using TFS Version Control, Azure DevOps uses Git for version control
+- On TFS we are using TFS Version Control, Azure DevOps we are using Git for version control
 - Last time we looked at basic Git commands, today we're looking at how we'll use it in Computershare
 @ulend
 
